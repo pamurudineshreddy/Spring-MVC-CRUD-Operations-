@@ -220,7 +220,6 @@ public class MallsController {
 		}
 		return "/index.jsp";
 		
-
 	}
 	
 	
